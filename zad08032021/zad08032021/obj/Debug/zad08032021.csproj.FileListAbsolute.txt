@@ -1,0 +1,5 @@
+C:\Users\Učenik07\source\repos\zad08032021\zad08032021\obj\Debug\zad08032021.csprojAssemblyReference.cache
+C:\Users\Učenik07\source\repos\zad08032021\zad08032021\obj\Debug\zad08032021.Form1.resources
+C:\Users\Učenik07\source\repos\zad08032021\zad08032021\obj\Debug\zad08032021.Properties.Resources.resources
+C:\Users\Učenik07\source\repos\zad08032021\zad08032021\obj\Debug\zad08032021.csproj.GenerateResource.cache
+C:\Users\Učenik07\source\repos\zad08032021\zad08032021\obj\Debug\zad08032021.csproj.CoreCompileInputs.cache
